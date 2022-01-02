@@ -1,0 +1,2 @@
+# logseq1
+document
